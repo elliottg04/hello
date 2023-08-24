@@ -12,11 +12,10 @@
 int main(int argc, char **argv) {
 
 
-  printf("Elliott Gray Cybersecurity\n");
-
+  printf("Hello World I'm Elliott Gray!\n");
+  printf("My Major is Cybersecurity\n");o
 
   return 0;
 }
-
 
 
